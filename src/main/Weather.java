@@ -42,6 +42,7 @@ public class Weather {
 
     @Override
     public String toString() {
+
         return "src.main.Weather{" +
                 "id=" + id +
                 ", main='" + main + '\'' +

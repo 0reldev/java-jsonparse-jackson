@@ -24,6 +24,7 @@ public class Wind {
 
     @Override
     public String toString() {
+
         return "src.main.Wind{" +
                 "speed=" + speed +
                 ", deg=" + deg +
